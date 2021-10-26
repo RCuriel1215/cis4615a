@@ -5,7 +5,7 @@ public class R09_LCK01_J {
 	 
 	public void doSomething() {
 	  synchronized (initialized) {
-	    // ...
+	    // ... 
 	  }
 	}
 
