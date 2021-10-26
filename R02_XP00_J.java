@@ -1,5 +1,5 @@
 
-public class R02_XP00_J {
+public class R02_XP00_J { 
 
 	public void deleteFile(){
 		 
