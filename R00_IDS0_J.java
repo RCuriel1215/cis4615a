@@ -1,5 +1,6 @@
 
-public class R00_IDS0_J {
+public class R00_IDS0_J 
+{
 	
 	if (loginSuccessful) {
 		  logger.severe("User login succeeded for: " + username);
