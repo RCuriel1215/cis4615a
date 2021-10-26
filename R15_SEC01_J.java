@@ -13,7 +13,7 @@ private void privilegedMethod(final String filename)
         }
       }
     );
-    // Do something with the file and then close it
+    // Do something with the file and then close it 
   } catch (PrivilegedActionException e) {
     // Forward to handler
   }
