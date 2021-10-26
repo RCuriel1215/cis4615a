@@ -1,5 +1,5 @@
 
-public class R08_VNA02_J {
+public class R08_VNA02_J { 
 	
 	final class Flag {
 		  private boolean flag = true;
